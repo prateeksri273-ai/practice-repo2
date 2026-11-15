@@ -1,0 +1,3 @@
+so, this is a new text file.
+lets get into it and explore the ways the whole git commit works. But we have to move consistently to acquire the knowledge of the technology;
+
